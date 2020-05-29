@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кирилл Сундаен](https://up.htmlacademy.ru/javascript/20/user/211623).
-* Наставник: `Неизвестно`.
+* Наставник: [Богдан Звягинцев](https://htmlacademy.ru/profile/id52757).
 
 ---
 
